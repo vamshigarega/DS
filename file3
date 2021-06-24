@@ -1,1 +1,5 @@
-file3 is in master
+<<<<<<< Updated upstream
+file3 is in masterasdff
+=======
+second stashset gdjaskl;
+>>>>>>> Stashed changes
